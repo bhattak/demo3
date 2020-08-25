@@ -1,2 +1,2 @@
 let name="Alex";
-alert("Your name is"+alex);
+console.log("Your name is "+ name);
